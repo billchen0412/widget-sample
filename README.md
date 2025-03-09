@@ -53,15 +53,17 @@ export default tseslint.config({
 })
 ```
 
-## env
+## Env
 
-Plese use nvm that is larger than 18.18.0
+Plese use nodejs that is larger than 18.18.0
+
+Recommend using nvm to manage nodejs environment
 ```
 nvm install 18.18.0 
 nvm use 18.18.0
 ```
 
-## build
+## Build
 
 Run command below will produce the widget.js in dist folder.
 ```
